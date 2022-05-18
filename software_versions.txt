@@ -1,0 +1,12 @@
+#Define the Versions used on the assets and plug ins.
+
+Bootstrap           v5.1.3
+Jquery              v3.5.1
+
+DataTables          v1.10.22
+DataRangePicker     v3.1
+FontAwesome         v6.1.1
+JustGage            v1.2.2
+MomentJs            v2.29.1
+morris.js           v0.5.0
+Raphael             v2.1.4
